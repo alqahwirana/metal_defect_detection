@@ -5,3 +5,4 @@ Getting started:
 2- In the first tab, you will find a field labeled “Drag & Drop Image Here” Upload the image you want to check.
 
 3- Click on “analyze image.”
+
